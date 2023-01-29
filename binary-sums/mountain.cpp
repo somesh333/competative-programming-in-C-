@@ -25,3 +25,5 @@ int  mountain = peakIndexInMountainArray(arr , 3 ) ;
 
 cout<<"the mid value is : " << mountain << endl;
 }
+
+// find out index value of the mountain peak;
