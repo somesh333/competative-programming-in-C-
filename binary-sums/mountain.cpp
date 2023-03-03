@@ -19,7 +19,7 @@ using namespace std;
 
 int main(){
 
-int arr[3] = {0,1,0};
+int arr[3] = {0,12,0};
 
 int  mountain = peakIndexInMountainArray(arr , 3 ) ;
 
